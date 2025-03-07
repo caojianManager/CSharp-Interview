@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "f0926f8f42cf763c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9473ae93cf10906c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f56acf2e39d379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio 2022快捷键.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visual Studio 2022快捷键"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c99f5fe89c26972",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8cfc7371b4c8288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0afe3fb5eabec4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5d12090e703f07b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b39bcbd58ba10999",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71abedf5ba284a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d47aa3fceb9c698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7a9295538726da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WPF/快捷键.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "快捷键 的反向链接列表"
+            }
+          },
+          {
+            "id": "388adf4fbed93f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Visual Studio 2022快捷键.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Visual Studio 2022快捷键 的出链列表"
+            }
+          },
+          {
+            "id": "11d93690555d0705",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dfe496b16998bd37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MVVM/Caliburn.Micro框架.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Caliburn.Micro框架 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5c0afe3fb5eabec4",
+  "lastOpenFiles": [
+    "MVVM/Caliburn.Micro框架.md",
+    "Visual Studio 2022快捷键.md",
+    "WPS集成Deepseek.md",
+    "README.md",
+    "MVVM",
+    "WPF",
+    "C#"
+  ]
+}
